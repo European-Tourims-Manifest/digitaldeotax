@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 1 Alcuni Consigli Operativi
+title: Alcuni Consigli Operativi
 image: /img/suzanne-emily-o-connor--TID8dGkbbM-unsplash.jpg
 ---
 
