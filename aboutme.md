@@ -1,16 +1,13 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Digital DeOTAX
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+In un tempo le nostre aziende furono chiuse, i nostri ospiti fermati, noi, costretti alla quarantena.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+In questa condizione, lontani ma vicini grazie alla tecnologia, alcuni albergatori hanno sentito l'esigenza di mettere per scritto i punti che puoi leggere in queste brevi pagine.
 
-What else do you need?
+Sperando che tutto ciò possa servire, pur nelle difficoltà del momento, a migliorare la nostra condizione, come albergatori, come fornitori delle OTA, come uomini che accolgono altri uomini!!
 
-### my history
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
